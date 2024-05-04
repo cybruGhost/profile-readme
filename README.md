@@ -29,4 +29,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub followers](https://img.shields.io/github/followers/your-github-username.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/your-github-username?tab=followers)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle.svg?style=social)](https://twitter.com/your-twitter-handle)
+
 Let's connect and collaborate on exciting ventures! 😊🚀
