@@ -1,6 +1,6 @@
-# profile-readme
-💫 About Me:
+# 💫 About Me:
 👋 Hi there! I'm Cyberghost
+
 I'm currently working on a messaging app
 Learning C++ java and Dart  lang 
 UI_UX design and Web dev
