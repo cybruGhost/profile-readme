@@ -11,25 +11,29 @@
 
 ## 🛠️ Tech Stack
 
-- Programming Languages: 
-  - C++ <i class="fab fa-cplusplus"></i>
-  - Java <i class="fab fa-java"></i>
-  - Dart <i class="fab fa-dart"></i>
-- Frontend Development: 
-  - HTML <i class="fab fa-html5"></i>
-  - CSS <i class="fab fa-css3-alt"></i>
-  - JavaScript <i class="fab fa-js"></i>
-- Backend Development: 
-  - Python (Flask, Django) <i class="fab fa-python"></i>
-  - Node.js <i class="fab fa-node"></i>
-- Database: 
-  - MySQL <i class="fas fa-database"></i>
-  - MongoDB <i class="fas fa-database"></i>
-- Tools & Frameworks: 
-  - Git <i class="fab fa-git"></i>
-  - VSCode <i class="fas fa-code"></i>
-  - Bootstrap <i class="fab fa-bootstrap"></i>
-  - React <i class="fab fa-react"></i>
+### Programming Languages
+- C++ <i class="fab fa-cplusplus"></i>
+- Java <i class="fab fa-java"></i>
+- Dart <i class="fab fa-dart"></i>
+
+### Frontend Development
+- HTML <i class="fab fa-html5"></i>
+- CSS <i class="fab fa-css3-alt"></i>
+- JavaScript <i class="fab fa-js"></i>
+
+### Backend Development
+- Python (Flask, Django) <i class="fab fa-python"></i>
+- Node.js <i class="fab fa-node"></i>
+
+### Database
+- MySQL <i class="fas fa-database"></i>
+- MongoDB <i class="fas fa-database"></i>
+
+### Tools & Frameworks
+- Git <i class="fab fa-git"></i>
+- VSCode <i class="fas fa-code"></i>
+- Bootstrap <i class="fab fa-bootstrap"></i>
+- React <i class="fab fa-react"></i>
 
 
 ## 🏆 GitHub Trophies
