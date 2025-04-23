@@ -45,7 +45,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cybruGhost&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Random Dev Quote
 
@@ -53,10 +53,10 @@
 
 ## 🔝 Top Contributed Repo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybruGhost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/your-github-username?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/cybruGhost.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/cybruGhost?tab=followers)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cybruGhost)
 
 Let's connect and collaborate on exciting ventures! 😊🚀
