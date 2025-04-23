@@ -7,7 +7,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/github/followers/cybruGhost?label=Follow&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=cybruGhost&label=Profile+Views&color=brightgreen" alt="Profile Views">
+</p>
 
+---
 ## 🚀 About Me
 
 - 🔥 Currently working on mind-blowing, innovative projects
