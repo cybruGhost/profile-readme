@@ -81,6 +81,14 @@
 </p>
 
 ---
+## 🟩 Contributions Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cybruGhost&theme=react-dark" alt="Contribution activity heatmap">
+</p>
+
+<p align="center"><i>Every green square = time invested, a bug squashed, or a solution born.</i></p>
+---
 
 ## 🏆 GitHub Trophy Case
 
