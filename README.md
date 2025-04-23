@@ -1,11 +1,13 @@
 # 💫 About Me
 
-👋 Hi there! I'm Cyberghost.
+👋 Hi there! I'm Cyberghost
 
-- 🔨 Currently working on a messaging app
-- 📚 Learning C++, Java, and Dart languages
-- 💻 Interested in UI/UX design and Web development
+- 🔨 Currently working on a crazy amaizing projects
+- 📚 Learning C++, Java, and react, django,Dart language
+- 💻 Interested in UI/UX design and Web development, app dev,systems enhance
+- i clone apps, web,and make them better and free
 - 🎓 Student in Mathematics and Information Science
+- linux user
 - 🔒 Fascinated by Cybersecurity
 - 🤖 Enthusiastic about AI
 
@@ -14,16 +16,20 @@
 ### Programming Languages
 - C++ <i class="fab fa-cplusplus"></i>
 - Java <i class="fab fa-java"></i>
+- Reactjs <i class="fab fa-React"></i>
 - Dart <i class="fab fa-dart"></i>
+- kotlin <i class="fab fa-kotlin"></i>
 
 ### Frontend Development
 - HTML <i class="fab fa-html5"></i>
 - CSS <i class="fab fa-css3-alt"></i>
 - JavaScript <i class="fab fa-js"></i>
+- React <i class="fab fa-React"></i>
 
 ### Backend Development
 - Python (Flask, Django) <i class="fab fa-python"></i>
 - Node.js <i class="fab fa-node"></i>
+- nextjs <i class="fab fa-Nextjs"></i>
 
 ### Database
 - MySQL <i class="fas fa-database"></i>
@@ -34,6 +40,7 @@
 - VSCode <i class="fas fa-code"></i>
 - Bootstrap <i class="fab fa-bootstrap"></i>
 - React <i class="fab fa-react"></i>
+- terminal <i class="fab fa-terminal"></i>
 
 
 ## 🏆 GitHub Trophies
