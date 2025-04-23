@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Code Alchemist | UI/UX Lover | Systems Tinkerer | Full-Time Dreamer</b><br>
-  <i>I clone, build, improve — and give it all for free.</i>
+  <i>I clone, build, improve — and give it all for free.</i><br>
+  <b>🧠 Addicted to Schedule 1</b>
 </p>
 
 ---
@@ -17,61 +18,69 @@
 - 🐧 Hardcore Linux user
 - 🔐 Cybersecurity lover
 - 🤖 AI enthusiast and tinkerer
-- 📅 **Addicted to Schedule 1**
+- 🧠 Good at managing **Supabase databases** and working with real-time systems
 
 ---
 
-## 🌐 Projects & Creations
+## 🌐 Featured Projects & Apps
 
-| Project/Tool        | Description                                | Link |
-|---------------------|--------------------------------------------|------|
-| **The Cub 4**       | React-based movie streaming site            | [vercel](https://thecub4.vercel.app) / [netlify](https://thecub4.netlify.app) |
-| **The Cube APK**    | Android movie streaming app                 | *Android App (Private Build)* |
-| **Cubic Music**     | Android music player                        | *Android App (Private Build)* |
-| **Jennie AI**       | Personal predefined assistant (Jarvis vibes)| *In Progress* |
-| **YouTube Premium** | Cloned & modified version for smoother UI   | *Private Clone* |
-| **Snake Game**      | Fun online VSnake Game                      | [vsnakegame.vercel.app](https://vsnakegame.vercel.app) |
+| Project                | Description                                       | Link |
+|------------------------|---------------------------------------------------|------|
+| **The Cub 4**          | React-based movie streaming site                  | [vercel](https://thecub4.vercel.app) / [netlify](https://thecub4.netlify.app) |
+| **The Cube APK**       | Android movie player (Download from website)      | [Download](https://thecub4.netlify.app) |
+| **Cubic Music**        | Android music player (Download from website)      | [Download](https://thecub4.netlify.app) |
+| **Cubic Ripper**       | Video/Audio extractor with a clean interface      | *Coming soon online* |
+| **Jennie AI**          | Personal predefined AI assistant (Jarvis-style)   | *In Development* |
+| **KeAttractions**      | Travel and attractions guide for Kenya            | *Private Beta* |
+| **Custom Chat WebApp** | Simple & beautiful web chat app                   | *Demo version in testing* |
+| **YouTube Premium Mod**| Enhanced YouTube clone with added features        | *Private Clone* |
+| **Snake Game**         | Retro snake game with modern styling              | [Play it](https://vsnakegame.vercel.app) |
+| **TMDB Trailer Site**  | Displays movie trailers via TMDB API              | *Ongoing Project* |
 
 ---
 
-## 🧠 Learning Journey
+## 🧠 Currently Exploring
 
-- Django (Backend Dev)
-- Firebase Integration
-- Animation in React Native
-- Real-time systems & AI prompts
-- Offline-first PWA tech
-- Reverse engineering for learning
+- Django for backend development
+- Firebase and Supabase for scalable apps
+- Animations in React Native
+- Real-time chat & AI integration
+- Android app decompiling and customization
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 `C++` | `Java` | `Dart` | `Kotlin` | `JavaScript` | `Python` | `HTML` | `CSS`
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks, Tools & Libraries
 `React.js` | `Django` | `Flask` | `Node.js` | `Next.js`  
-`Bootstrap` | `Git` | `VSCode` | `Terminal` | `MongoDB` | `MySQL`
+`Bootstrap` | `Supabase` | `Firebase` | `VSCode` | `Git` | `Terminal`
+
+### 🗄️ Databases
+`MongoDB` | `MySQL` | `Supabase`
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cybruGhost&theme=gruvbox&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🌿 Contributions & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cybruGhost&show_icons=true&hide_border=true&theme=gruvbox" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybruGhost&theme=gruvbox&hide_border=true" />
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=cybruGhost&theme=green-blue" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cybruGhost&theme=react-dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybruGhost&layout=compact&theme=gruvbox" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cybruGhost&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -82,7 +91,7 @@
 
 ---
 
-## 🌟 Let's Connect!
+## 🔗 Let’s Connect
 
 [![GitHub Followers](https://img.shields.io/github/followers/cybruGhost?label=Follow&style=social)](https://github.com/cybruGhost)
 
