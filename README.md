@@ -1,22 +1,47 @@
-<h1 align="center">Hey there, I'm <span style="color:#ff4b5c;">CyberGhost</span> 👻</h1>
+<h1 align="center">Hey there, I'm <span style="color:#00ff95;">CyberGhost</span> 👻</h1>
 
 <p align="center">
-  <b>Code alchemist | UI/UX lover | App & Web dev wizard | Cybersecurity nerd</b><br>
-  <i>I clone, I build, I innovate — and I make it all free & better!</i>
+  <b>Code Alchemist | UI/UX Lover | Systems Tinkerer | Full-Time Dreamer</b><br>
+  <i>I clone, build, improve — and give it all for free.</i>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 Currently juggling wild and amazing projects!
-- 🌱 Learning: `C++`, `Java`, `React`, `Django`, `Dart` (I love exploring!)
-- 🎨 Passionate about: `UI/UX Design`, `Web & App Dev`, `System Optimization`
-- 🛠️ I recreate and upgrade popular apps & websites — for free!
+- 🔥 Currently working on mind-blowing, innovative projects
+- 🌱 Learning: `C++`, `Java`, `React`, `Django`, `Dart`, `Kotlin`
+- 🎨 Passionate about: UI/UX, Web & App Development, System Enhancements
+- 🛠️ I redesign clones and transform them into better, free versions
 - 🎓 Student of Mathematics & Information Science
-- 🐧 Linux enthusiast & open-source contributor
-- 🔐 Cybersecurity intrigues me deeply
-- 🤖 Dreaming in code, building with AI
+- 🐧 Hardcore Linux user
+- 🔐 Cybersecurity lover
+- 🤖 AI enthusiast and tinkerer
+- 📅 **Addicted to Schedule 1**
+
+---
+
+## 🌐 Projects & Creations
+
+| Project/Tool        | Description                                | Link |
+|---------------------|--------------------------------------------|------|
+| **The Cub 4**       | React-based movie streaming site            | [vercel](https://thecub4.vercel.app) / [netlify](https://thecub4.netlify.app) |
+| **The Cube APK**    | Android movie streaming app                 | *Android App (Private Build)* |
+| **Cubic Music**     | Android music player                        | *Android App (Private Build)* |
+| **Jennie AI**       | Personal predefined assistant (Jarvis vibes)| *In Progress* |
+| **YouTube Premium** | Cloned & modified version for smoother UI   | *Private Clone* |
+| **Snake Game**      | Fun online VSnake Game                      | [vsnakegame.vercel.app](https://vsnakegame.vercel.app) |
+
+---
+
+## 🧠 Learning Journey
+
+- Django (Backend Dev)
+- Firebase Integration
+- Animation in React Native
+- Real-time systems & AI prompts
+- Offline-first PWA tech
+- Reverse engineering for learning
 
 ---
 
@@ -39,29 +64,29 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌿 Contributions & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybruGhost&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cybruGhost&show_icons=true&hide_border=true&theme=gruvbox" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybruGhost&theme=gruvbox&hide_border=true" />
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=cybruGhost&theme=green-blue" />
 </p>
 
 ---
 
-## 💬 Random Dev Quote
+## ✨ Dev Quote
 
 > *"The best error message is the one that never shows up."* — Thomas Fuchs
 
 ---
 
-## 🌐 Let's Connect!
+## 🌟 Let's Connect!
 
-[![GitHub Followers](https://img.shields.io/github/followers/cybruGhost?label=Follow&style=social)](https://github.com/cybruGhost)  
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=cybruGhost&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
+[![GitHub Followers](https://img.shields.io/github/followers/cybruGhost?label=Follow&style=social)](https://github.com/cybruGhost)
 
 <p align="center">
-  <b>Let’s build the future — one line of code at a time.</b>  
-  <br>
-  <i>DMs open for collaborations, cool ideas, and geeky convos!</i> 🚀
+  <i>DMs open for collabs, code battles, and big dreams.</i><br>
+  <b>Let’s build the future — one green contribution at a time.</b>
 </p>
