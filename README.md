@@ -1,62 +1,67 @@
-# 💫 About Me
+<h1 align="center">Hey there, I'm <span style="color:#ff4b5c;">CyberGhost</span> 👻</h1>
 
-👋 Hi there! I'm Cyberghost
+<p align="center">
+  <b>Code alchemist | UI/UX lover | App & Web dev wizard | Cybersecurity nerd</b><br>
+  <i>I clone, I build, I innovate — and I make it all free & better!</i>
+</p>
 
-- 🔨 Currently working on a crazy amaizing projects
-- 📚 Learning C++, Java, and react, django,Dart language
-- 💻 Interested in UI/UX design and Web development, app dev,systems enhance
-- i clone apps, web,and make them better and free
-- 🎓 Student in Mathematics and Information Science
-- linux user
-- 🔒 Fascinated by Cybersecurity
-- 🤖 Enthusiastic about AI
+---
+
+## 🚀 About Me
+
+- 🧠 Currently juggling wild and amazing projects!
+- 🌱 Learning: `C++`, `Java`, `React`, `Django`, `Dart` (I love exploring!)
+- 🎨 Passionate about: `UI/UX Design`, `Web & App Dev`, `System Optimization`
+- 🛠️ I recreate and upgrade popular apps & websites — for free!
+- 🎓 Student of Mathematics & Information Science
+- 🐧 Linux enthusiast & open-source contributor
+- 🔐 Cybersecurity intrigues me deeply
+- 🤖 Dreaming in code, building with AI
+
+---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- C++ <i class="fab fa-cplusplus"></i>
-- Java <i class="fab fa-java"></i>
-- Reactjs <i class="fab fa-React"></i>
-- Dart <i class="fab fa-dart"></i>
-- kotlin <i class="fab fa-kotlin"></i>
+### 💻 Languages
+`C++` | `Java` | `Dart` | `Kotlin` | `JavaScript` | `Python` | `HTML` | `CSS`
 
-### Frontend Development
-- HTML <i class="fab fa-html5"></i>
-- CSS <i class="fab fa-css3-alt"></i>
-- JavaScript <i class="fab fa-js"></i>
-- React <i class="fab fa-React"></i>
+### ⚙️ Frameworks & Tools
+`React.js` | `Django` | `Flask` | `Node.js` | `Next.js`  
+`Bootstrap` | `Git` | `VSCode` | `Terminal` | `MongoDB` | `MySQL`
 
-### Backend Development
-- Python (Flask, Django) <i class="fab fa-python"></i>
-- Node.js <i class="fab fa-node"></i>
-- nextjs <i class="fab fa-Nextjs"></i>
-
-### Database
-- MySQL <i class="fas fa-database"></i>
-- MongoDB <i class="fas fa-database"></i>
-
-### Tools & Frameworks
-- Git <i class="fab fa-git"></i>
-- VSCode <i class="fas fa-code"></i>
-- Bootstrap <i class="fab fa-bootstrap"></i>
-- React <i class="fab fa-react"></i>
-- terminal <i class="fab fa-terminal"></i>
-
+---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cybruGhost&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cybruGhost&theme=gruvbox&no-frame=true&row=1&column=6" />
+</p>
 
-## 🌟 Random Dev Quote
+---
 
-> "The best error message is the one that never shows up." - Thomas Fuchs
+## 📊 GitHub Stats
 
-## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybruGhost&layout=compact&theme=tokyonight" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybruGhost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![GitHub followers](https://img.shields.io/github/followers/cybruGhost.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/cybruGhost?tab=followers)
+## 💬 Random Dev Quote
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cybruGhost)
+> *"The best error message is the one that never shows up."* — Thomas Fuchs
 
-Let's connect and collaborate on exciting ventures! 😊🚀
+---
+
+## 🌐 Let's Connect!
+
+[![GitHub Followers](https://img.shields.io/github/followers/cybruGhost?label=Follow&style=social)](https://github.com/cybruGhost)  
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=cybruGhost&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<p align="center">
+  <b>Let’s build the future — one line of code at a time.</b>  
+  <br>
+  <i>DMs open for collaborations, cool ideas, and geeky convos!</i> 🚀
+</p>
