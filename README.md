@@ -97,7 +97,7 @@
 
 ---
 
-## ✨ Dev Quote
+## ✨ Dev Quote..
 
 > *"The best error message is the one that never shows up."* — Thomas Fuchs
 
